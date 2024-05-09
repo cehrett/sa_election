@@ -14,6 +14,9 @@ Analysis of social media posts related to the May 29, 2024 South Africa election
 - [2024-03-31](AfricanNationalCongress\2024-03-31.html)
 - [2024-04-01](AfricanNationalCongress\2024-04-01.html)
 - [2024-04-02](AfricanNationalCongress\2024-04-02.html)
+- [2024-04-03](AfricanNationalCongress\2024-04-03.html)
+- [2024-04-04](AfricanNationalCongress\2024-04-04.html)
+- [2024-04-06](AfricanNationalCongress\2024-04-06.html)
 
 ### DemocraticAlliance
 - [2024-03-24](DemocraticAlliance\2024-03-24.html)
@@ -24,6 +27,10 @@ Analysis of social media posts related to the May 29, 2024 South Africa election
 - [2024-03-29](DemocraticAlliance\2024-03-29.html)
 - [2024-03-30](DemocraticAlliance\2024-03-30.html)
 - [2024-04-02](DemocraticAlliance\2024-04-02.html)
+- [2024-04-03](DemocraticAlliance\2024-04-03.html)
+- [2024-04-04](DemocraticAlliance\2024-04-04.html)
+- [2024-04-05](DemocraticAlliance\2024-04-05.html)
+- [2024-04-06](DemocraticAlliance\2024-04-06.html)
 
 ### EconomicFreedomFighters
 - [2024-03-24](EconomicFreedomFighters\2024-03-24.html)
@@ -33,3 +40,5 @@ Analysis of social media posts related to the May 29, 2024 South Africa election
 - [2024-03-28](EconomicFreedomFighters\2024-03-28.html)
 - [2024-03-29](EconomicFreedomFighters\2024-03-29.html)
 - [2024-04-02](EconomicFreedomFighters\2024-04-02.html)
+- [2024-04-03](EconomicFreedomFighters\2024-04-03.html)
+- [2024-04-04](EconomicFreedomFighters\2024-04-04.html)
