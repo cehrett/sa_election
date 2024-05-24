@@ -26,6 +26,7 @@ Below is a list of dates for each of several topics. For each topic, every day w
 - [2024-04-07](AfricanNationalCongress/2024-04-07.html)
 - [2024-04-08](AfricanNationalCongress/2024-04-08.html)
 - [2024-04-09](AfricanNationalCongress/2024-04-09.html)
+- [2024-04-10](AfricanNationalCongress/2024-04-10.html)
 
 ### DemocraticAlliance [(Cluster labels)](DemocraticAlliance.html)
 - [2024-03-24](DemocraticAlliance/2024-03-24.html)
@@ -64,7 +65,9 @@ Below is a list of dates for each of several topics. For each topic, every day w
 - [2024-04-10](EconomicFreedomFighters/2024-04-10.html)
 - [2024-04-11](EconomicFreedomFighters/2024-04-11.html)
 - [2024-04-12](EconomicFreedomFighters/2024-04-12.html)
+- [2024-04-13](EconomicFreedomFighters/2024-04-13.html)
 
 ### IndependentElectoralCommission [(Cluster labels)](IndependentElectoralCommission.html)
 - [2024-05-02](IndependentElectoralCommission/2024-05-02.html)
 - [2024-05-03](IndependentElectoralCommission/2024-05-03.html)
+- [2024-05-04](IndependentElectoralCommission/2024-05-04.html)
