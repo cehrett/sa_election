@@ -32,6 +32,8 @@ Below is a list of dates for each of several topics. For each topic, every day w
 - [2024-04-17](AfricanNationalCongress/2024-04-17.html)
 - [2024-04-18](AfricanNationalCongress/2024-04-18.html)
 - [2024-04-19](AfricanNationalCongress/2024-04-19.html)
+- [2024-04-20](AfricanNationalCongress/2024-04-20.html)
+- [2024-04-21](AfricanNationalCongress/2024-04-21.html)
 
 ### DemocraticAlliance [(Cluster labels)](DemocraticAlliance.html)
 - [2024-03-24](DemocraticAlliance/2024-03-24.html)
@@ -63,6 +65,11 @@ Below is a list of dates for each of several topics. For each topic, every day w
 - [2024-04-22](DemocraticAlliance/2024-04-22.html)
 - [2024-04-23](DemocraticAlliance/2024-04-23.html)
 - [2024-04-24](DemocraticAlliance/2024-04-24.html)
+- [2024-04-25](DemocraticAlliance/2024-04-25.html)
+- [2024-04-26](DemocraticAlliance/2024-04-26.html)
+- [2024-04-27](DemocraticAlliance/2024-04-27.html)
+- [2024-04-28](DemocraticAlliance/2024-04-28.html)
+- [2024-04-29](DemocraticAlliance/2024-04-29.html)
 
 ### EconomicFreedomFighters [(Cluster labels)](EconomicFreedomFighters.html)
 - [2024-03-24](EconomicFreedomFighters/2024-03-24.html)
@@ -97,6 +104,9 @@ Below is a list of dates for each of several topics. For each topic, every day w
 - [2024-04-23](EconomicFreedomFighters/2024-04-23.html)
 - [2024-04-24](EconomicFreedomFighters/2024-04-24.html)
 - [2024-04-25](EconomicFreedomFighters/2024-04-25.html)
+- [2024-04-26](EconomicFreedomFighters/2024-04-26.html)
+- [2024-04-27](EconomicFreedomFighters/2024-04-27.html)
+- [2024-04-28](EconomicFreedomFighters/2024-04-28.html)
 
 ### IndependentElectoralCommission [(Cluster labels)](IndependentElectoralCommission.html)
 - [2024-05-02](IndependentElectoralCommission/2024-05-02.html)
@@ -110,3 +120,7 @@ Below is a list of dates for each of several topics. For each topic, every day w
 - [2024-05-12](IndependentElectoralCommission/2024-05-12.html)
 - [2024-05-13](IndependentElectoralCommission/2024-05-13.html)
 - [2024-05-14](IndependentElectoralCommission/2024-05-14.html)
+- [2024-05-15](IndependentElectoralCommission/2024-05-15.html)
+- [2024-05-16](IndependentElectoralCommission/2024-05-16.html)
+- [2024-05-17](IndependentElectoralCommission/2024-05-17.html)
+- [2024-05-18](IndependentElectoralCommission/2024-05-18.html)
