@@ -106,6 +106,8 @@ Below is a list of dates for each of several topics. For each topic, every day w
 - [2024-05-17](DemocraticAlliance/2024-05-17.html)
 - [2024-05-18](DemocraticAlliance/2024-05-18.html)
 - [2024-05-19](DemocraticAlliance/2024-05-19.html)
+- [2024-05-20](DemocraticAlliance/2024-05-20.html)
+- [2024-05-21](DemocraticAlliance/2024-05-21.html)
 
 ### EconomicFreedomFighters [(Cluster labels)](EconomicFreedomFighters.html)
 - [2024-03-24](EconomicFreedomFighters/2024-03-24.html)
