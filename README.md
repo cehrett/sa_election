@@ -225,3 +225,4 @@ Below is a list of dates for each of several topics. For each topic, every day w
 - [2024-05-29](IndependentElectoralCommission/2024-05-29.html)
 - [2024-05-30](IndependentElectoralCommission/2024-05-30.html)
 - [2024-05-31](IndependentElectoralCommission/2024-05-31.html)
+- [2024-06-01](IndependentElectoralCommission/2024-06-01.html)
